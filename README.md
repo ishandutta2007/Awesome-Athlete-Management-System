@@ -46,7 +46,7 @@ Centralized performance, medical, training-load, and wellness monitoring platfor
 
 Community-driven, transparent, and self-hosted tools for athlete tracking, training load calculations (ACWR, TRIMP), and endurance analytics.
 
-| 📦 Repository & Link | ⭐ Star Count | 🛠️ Core Tech / Focus | 📜 Description |
+| 📦 Repository & Link | ⭐ Stars_Count | 🛠️ Core Tech / Focus | 📜 Description |
 | :--- | :---: | :--- | :--- |
 | **[GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah)** 🐆 | [![GoldenCheetah Stars](https://img.shields.io/github/stars/GoldenCheetah/GoldenCheetah?style=social&color=white)](https://github.com/GoldenCheetah/GoldenCheetah/stargazers) | C++ / Qt / Performance Analytics | Performance analysis software for endurance athletes; imports data from power meters, HR monitors, and GPS. |
 | **[OpenTracks](https://github.com/OpenTracksApp/OpenTracks)** 📍 | [![OpenTracks Stars](https://img.shields.io/github/stars/OpenTracksApp/OpenTracks?style=social&color=white)](https://github.com/OpenTracksApp/OpenTracks/stargazers) | Java / Android / GPS Tracking | Privacy-respecting sport tracking application for logging workouts and telemetry without data leakage. |
