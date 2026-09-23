@@ -2,9 +2,7 @@
 
 [![Awesome Athlete Management System Banner](assets/banner.svg)](https://github.com/ishandutta2007/Awesome-Athlete-Management-System)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Athlete-Management-System/pulls)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Athlete-Management-System/pulls) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > **A curated list of elite SaaS products, open-source GitHub projects, wearable data pipelines, and sports science platforms for athlete monitoring, injury risk assessment, training load management, and wellness surveys.** 🏋️‍♂️📊⚽
 
@@ -23,6 +21,8 @@
 - [🏢 Enterprise SaaS Platforms](#-enterprise-saas-platforms)
 - [🔓 Open-Source GitHub Repositories](#-open-source-github-repositories)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [⚖️ Disclaimer & Security Notice](#-disclaimer--security-notice)
 
 ---
@@ -67,6 +67,23 @@ Contributions are welcome to keep this ecosystem comprehensive and accurate!
 2. **Add or update** entries in `README.md` following the table formats 📝
 3. Verify links, pricing details, and repository metrics 🔍
 4. **Submit a Pull Request** with a brief summary of additions 🚀
+
+---
+
+## 💖 Support & Sponsorship ☕
+
+Thank you so much for taking the time to explore the **Awesome Athlete Management System** ecosystem! If you find this curated collection valuable for your sports science research, performance coaching, or engineering workflows, please consider supporting the project:
+
+- 🌟 **Star** this repository to help others discover it!
+- 🔀 **Fork** it to customize or contribute back!
+- 📢 **Share** it with fellow sports scientists, software engineers, and strength coaches!
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to sponsor the ongoing maintenance and curation, check out the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Athlete-Management-System&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Athlete-Management-System&type=date&legend=top-left)
 
 ---
 
